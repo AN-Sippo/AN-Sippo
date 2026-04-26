@@ -17,8 +17,4 @@
 #### Contact
 
 🌐 Web: https://sippo.dog/  
-📗 blog:https://www.sippo.blog  
 🐦 Twitter:https://x.com/Sippo_0127  
-🍙 Qiita: https://qiita.com/Sippo
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AN-Sippo&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
